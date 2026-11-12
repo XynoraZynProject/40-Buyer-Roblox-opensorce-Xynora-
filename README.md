@@ -2,8 +2,10 @@
 An open-sorce .rbxl files and script for everyone.
 
 Realeased :
-| Edition | Version |
-| 40% method Aio (OG Edition) | 1.0 |
+
+| Edition                          | Version |
+| -------------------------------- | ------- |
+| 40% method Aio (OG Edition)      | 1.0     |
 
 
 --
